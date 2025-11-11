@@ -1,0 +1,5 @@
+**/target/**
+
+# Including SRS files.
+!/doc/srs-docs
+!/doc/srs-src

@@ -1,0 +1,4 @@
+# Augment Guidelines for rust-turbo
+
+## Project Overview
+rust-turbo is a Rust-based acceleration engine that offloads CPU-intensive RTC workloads (SRTP encryption/decryption, UDP I/O, network scheduling) from SRS, enabling multi-core scalability and lower latency.
